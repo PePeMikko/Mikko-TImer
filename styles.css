@@ -17,6 +17,7 @@ h1 {
 }
 
 .timer {
+    text-align: center;
     margin: 0 0 82px;
     font-size: 72px;
     line-height: 1;
